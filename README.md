@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Sarthak+Shreshtha;Full-Stack+Developer+%7C+Backend+Architect;AI+Integrations+%7C+Cloud+Enthusiast;Building+Scalable+%26+Animated+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Sarthak+Shreshtha;Full-Stack+Developer+%7C+Backend+Architect;AI+Integrations+%7C+Cloud+Enthusiast;Building+Scalable+%26+Animated+Web+Experiences" alt="Typing SVG" />
 
 <p align="center">
     <a href="YOUR_RESUME_LINK_HERE" target="_blank">
@@ -97,7 +97,7 @@ I am a full-stack engineer who builds scalable, production-ready web application
 
 ### 🎯 Engineering Focus
 
-```
+```mermaid
 pie title Strength Distribution
     "Backend Arch" : 40
     "Frontend UX" : 30
@@ -110,7 +110,7 @@ pie title Strength Distribution
 
 ### 🧠 My Development Process
 
-```
+```mermaid
 graph TD;
   Idea[💡 Idea] --> Plan[📝 Plan];
   Plan --> Design[📐 Design];
@@ -182,7 +182,7 @@ AI-Based Image Generation SaaS integrating OpenAI and Claude. Features a credit 
 
 ## 🏗️ Shipyard AI — System Architecture
 
-```
+```mermaid
 flowchart LR
     User[👤 User] --> Client[🖥️ Next.js Client]
     Client --> API[🛡️ API Gateway]
