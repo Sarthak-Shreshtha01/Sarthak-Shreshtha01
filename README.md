@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Sarthak+Shreshtha;Full-Stack+Developer+%7C+Backend+Architect;AI+Integrations+%7C+Cloud+Enthusiast;Building+Scalable+%26+Animated+Web+Experiences" alt="Typing SVG" />
 
 <p align="center">
-    <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+    <a href="https://drive.google.com/file/d/1jspxlxYZPGKAYRdut__0VwtkpQnUoNfx/view?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/Download_CV-Resume-ff0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
     </a>
 </p>
@@ -199,23 +199,6 @@ flowchart LR
 
 ---
 
-## ⚙️ Automating This Month
-
-<div align="left">
-  <code>Last Updated: December 2025</code>
-</div>
-<br>
-
-⏳ Reduced API response time by **40%** via Redis caching implementation.
-
-🤖 Auto-deployed CI pipeline for backend microservices using **GitHub Actions**.
-
-🧹 Cleaned PR workflow by enforcing semantic commits with **Husky**.
-
-🔄 Implemented auto-scaling for the image-generation message queue.
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -243,9 +226,9 @@ flowchart LR
 
 <h3>📫 Let's Connect</h3>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/sarthak-shreshtha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+<a href="mailto:sarthakshreshtha345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+<!-- <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /></a> -->
 
 <br><br>
 
